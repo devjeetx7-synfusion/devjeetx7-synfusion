@@ -150,21 +150,11 @@ automation systems and digital products.
 <h2 align="center">GitHub Activity</h2>
 
 <p align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=devjeetx7-synfusion&theme=tokyo-night&hide_border=true&area=true"
-width="95%"
->
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devjeetx7-synfusion&theme=tokyo-night&hide_border=true&area=true" width="95%" height="300" alt="GitHub Activity Graph">
 </p>
 
 <p align="center">
-
-<img
-src="https://streak-stats.demolab.com/?user=devjeetx7-synfusion&theme=tokyonight&hide_border=true"
-width="70%"
->
-
+  <img src="https://streak-stats.demolab.com/?user=devjeetx7-synfusion&theme=tokyonight&hide_border=true" width="95%" height="150" alt="GitHub Streak Stats">
 </p>
 
 <br>
@@ -175,39 +165,21 @@ width="70%"
 <tr>
 
 <td align="center" width="150">
-
-<a href="https://instagram.com/devjeetx7">
-
-<img
-src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white"
-height="36">
-
-</a>
-
+  <a href="https://instagram.com/devjeetx7">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" alt="Instagram">
+  </a>
 </td>
 
 <td align="center" width="150">
-
-<a href="https://t.me/synfusion_coder">
-
-<img
-src="https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram&logoColor=white"
-height="36">
-
-</a>
-
+  <a href="https://t.me/synfusion_coder">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="40" alt="Telegram">
+  </a>
 </td>
 
 <td align="center" width="150">
-
-<a href="mailto:devjeetx7@gmail.com">
-
-<img
-src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"
-height="36">
-
-</a>
-
+  <a href="mailto:devjeetx7@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Gmail">
+  </a>
 </td>
 
 </tr>
@@ -216,10 +188,7 @@ height="36">
 <br>
 
 <p align="center">
-
-<img
-src="https://komarev.com/ghpvc/?username=devjeetx7-synfusion&label=Profile%20Views&style=for-the-badge">
-
+  <img src="https://komarev.com/ghpvc/?username=devjeetx7-synfusion&label=Profile%20Views&style=for-the-badge" alt="Profile Views">
 </p>
 
 <br>
@@ -227,9 +196,9 @@ src="https://komarev.com/ghpvc/?username=devjeetx7-synfusion&label=Profile%20Vie
 <hr>
 
 <h3 align="center">
-<strong>SYNFUSION</strong>
+  <strong>SYNFUSION</strong>
 </h3>
 
 <p align="center">
-<sub>Building Smart Digital Experiences.</sub>
+  <sub>Building Smart Digital Experiences.</sub>
 </p>
